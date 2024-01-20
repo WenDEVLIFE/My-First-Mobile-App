@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <!-- set to "Theme.AppCompat.NoActionBar" to change the component -->
+<style name="Base.Theme.MyFirstApplication" parent="Theme.AppCompat.NoActionBar">
+    <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
